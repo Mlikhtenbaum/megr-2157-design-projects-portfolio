@@ -23,3 +23,4 @@ Portfolio Analysis #2: Non-GitHub-Based Engineering Portfolio:
 
 ## Communicate
 
+The communication segment of the A1 assignment revolves around populating the "About Me" repository, which has been completed.
